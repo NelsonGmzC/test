@@ -1,7 +1,7 @@
 const chatContainer = document.getElementById("chat-container");
 
 // Configura tu canal
-const channelName = "TU_CANAL"; // sin @ ni https
+const channelName = "gmzcs17"; // sin @ ni https
 
 const client = new tmi.Client({
   connection: { reconnect: true },
